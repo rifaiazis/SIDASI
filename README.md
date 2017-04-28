@@ -1,2 +1,1 @@
-# Sistem Informasi Data Siswa
-
+# Sistem Informasi Kemahasiswaan
