@@ -1,1 +1,1 @@
-# Sistem Informasi Kemahasiswaan
+# Aplikasi Pembelajaran Berbasis Dekstop Visual Basic
